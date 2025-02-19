@@ -8,6 +8,6 @@ Features ✨
 ✔️ Clean and structured HTML & CSS
 ✔️ Aesthetic and visually accurate Mondrian-style layout
 
-🔗 Check out the live demo here (Add your GitHub Pages link)
+🔗 Check out the live demo here https://shravan121005.github.io/Mondrian-Painting/
 
 Feel free to explore, fork, and improve upon this project! 🚀
